@@ -28,7 +28,7 @@ prompt APPLICATION 2018 - User Services
 -- Application Export:
 --   Application:     2018
 --   Name:            User Services
---   Date and Time:   11:11 Friday November 12, 2021
+--   Date and Time:   11:14 Friday November 12, 2021
 --   Exported By:     ALEXANDRU.BASARAB@DIGI-SOFT.RO
 --   Flashback:       0
 --   Export Type:     Component Export
@@ -100,6 +100,7 @@ wwv_flow_api.create_plugin(
 ,p_substitute_attributes=>true
 ,p_subscribe_plugin_settings=>true
 ,p_version_identifier=>'1.0'
+,p_about_url=>'https://github.com/AlexandruBasarab/APEX-Autocomplete-on-Character'
 ,p_files_version=>5
 );
 wwv_flow_api.create_plugin_attribute(
