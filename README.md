@@ -7,4 +7,9 @@ I still have to add some functionality to it, but if you want to change the char
 
 The javascript file is not needed you can add the plugin into APEX and create a Dynamic Action.
 
+Follow the below steps:
+
+1. Import the application into your app.
+2. 
+
 Please keep in mind that this is an early version and if you have any suggestions please contact me.
