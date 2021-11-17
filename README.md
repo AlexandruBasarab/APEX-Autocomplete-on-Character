@@ -3,15 +3,15 @@
 
 This plugin uses jQuery Autocomplete plugin to create a list of values when pressing @ for Text Field or Textarea.
 The plugin uses jQuery 3.6.0 with noConflict.
-I still have to add some functionality to it, but if you want to change the character that triggers the list you need to change the sql and the javascript file, this is on my todo list.
+Please note that jQuery is defined as $j, if you alredy have another jquery version under that name just modify the plugin js file.
 
 The javascript file is not needed you can add the plugin into APEX and create a Dynamic Action.
 
 Follow the below steps:
 
-1. Import the application into your app.
-2. Create a Dynamic Action on Page Load
+1. Import the plugin into your application.
+2. Create a Dynamic Action on Event = Page Load and a True action like the picture below
 ![image](https://user-images.githubusercontent.com/5824892/142200802-00a7e0fb-88b4-4d22-8eab-e1873e135a93.png)
 
 
-Please keep in mind that this is an early version and if you have any suggestions please contact me.
+Please keep in mind that this is an early version and if you have any suggestions please contact me or just modify the plugin yourself.
