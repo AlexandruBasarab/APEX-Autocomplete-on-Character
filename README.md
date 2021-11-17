@@ -10,6 +10,8 @@ The javascript file is not needed you can add the plugin into APEX and create a 
 Follow the below steps:
 
 1. Import the application into your app.
-2. 
+2. Create a Dynamic Action on Page Load
+![image](https://user-images.githubusercontent.com/5824892/142200802-00a7e0fb-88b4-4d22-8eab-e1873e135a93.png)
+
 
 Please keep in mind that this is an early version and if you have any suggestions please contact me.
