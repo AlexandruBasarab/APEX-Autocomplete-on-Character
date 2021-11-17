@@ -15,3 +15,5 @@ Follow the below steps:
 
 
 Please keep in mind that this is an early version and if you have any suggestions please contact me or just modify the plugin yourself.
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/AlexandruBasarab)
