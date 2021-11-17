@@ -1,4 +1,4 @@
-# APEX-Autocomplete-Item
+# APEX-Autocomplete-on-Character
 ![](https://img.shields.io/badge/ORACLE-APEX-success.svg) ![](https://img.shields.io/badge/Plug--in_Type-Dynamic_Action-orange.svg) ![](https://img.shields.io/badge/Avaiable%20for%20APEX-5.1.3%20or%20above-blue)
 
 This plugin uses jQuery Autocomplete plugin to create a list of values when pressing @ for Text Field or Textarea.
