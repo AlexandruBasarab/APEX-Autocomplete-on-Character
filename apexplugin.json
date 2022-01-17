@@ -3,7 +3,7 @@
     "version": "1.0",
     "description": "This plugin uses jQuery Autocomplete plugin to create a list of values when pressing @ for Text Field or Textarea. The plugin uses jQuery 3.6.0 with noConflict. Please note that jQuery is defined as $j, if you alredy have another jquery version under that name just modify the plugin js file.",
     "keywords": ["oracle", "apex", "plugin", "dynamic action", "autocomplete"],
-    "homepage": "https://www.linkedin.com/in/alexandru-basarab/",
+    "homepage": "https://github.com/AlexandruBasarab/APEX-Autocomplete-on-Character",
     "bugs": {
         "url": "https://github.com/AlexandruBasarab/APEX-Autocomplete-on-Character/issues",
         "email": "alexandru.c.basarab@gmail.com"
@@ -13,7 +13,7 @@
     "author": {
         "name": "Alexandru Basarab",
         "email": "alexandru.c.basarab@gmail.com",
-        "url": "https://github.com/AlexandruBasarab/APEX-Autocomplete-on-Character",
+        "url": "https://www.linkedin.com/in/alexandru-basarab/",
         "donationUrl": "https://www.paypal.me/AlexandruBasarab"
     },
     "repository": {
